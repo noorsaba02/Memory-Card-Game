@@ -30,8 +30,9 @@ Memory Card Game is an interactive and fun game designed to test and improve mem
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
-<img width="523" height="599" alt="Screenshot 2026-11-22 205911" src="https://github.com/user-attachments/assets/84519b19-c769-45db-864b-0d5897a90058" />
 <img width="931" height="575" alt="Screenshot 2026-11-22 205700" src="https://github.com/user-attachments/assets/7361a19c-577b-43a4-a939-da3c3b7ba8ce" />
+<img width="523" height="599" alt="Screenshot 2026-11-22 205911" src="https://github.com/user-attachments/assets/84519b19-c769-45db-864b-0d5897a90058" />
+
 
 
 ## 👩‍💻 Developer
